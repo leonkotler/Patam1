@@ -1,4 +1,4 @@
-package server_side;
+package server_side.cache;
 
 public interface CacheManager<Problem, Solution> {
 

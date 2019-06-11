@@ -1,4 +1,4 @@
-package server_side;
+package server_side.solver;
 
 public class StringReverser implements Solver<String,String> {
 

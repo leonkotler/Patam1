@@ -1,4 +1,6 @@
-package server_side;
+package server_side.server;
+
+import server_side.clienthandler.ClientHandler;
 
 import java.io.IOException;
 import java.net.ServerSocket;

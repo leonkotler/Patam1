@@ -1,4 +1,4 @@
-package server_side;
+package server_side.clienthandler;
 
 import java.io.InputStream;
 import java.io.OutputStream;

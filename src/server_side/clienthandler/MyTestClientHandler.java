@@ -1,4 +1,7 @@
-package server_side;
+package server_side.clienthandler;
+
+import server_side.cache.CacheManager;
+import server_side.solver.Solver;
 
 import java.io.*;
 
